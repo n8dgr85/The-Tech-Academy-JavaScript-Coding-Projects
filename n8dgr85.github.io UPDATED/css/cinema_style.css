@@ -1,0 +1,28 @@
+h1 {
+	color:#fff;
+	font-family:roboto;
+	font-weight:900;
+	text-transform:uppercase;
+	text-shadow: 1.5px 1.5px 5px #fff, 1px 1px 5px #000;
+	
+}
+
+p {
+	color:#fff;
+	font-family:roboto;
+	font-weight:200;
+	text-transform:uppercase;
+	text-shadow: 1.5px 1.5px 5px #fff, 1px 1px 5px #000;
+	
+}
+
+h3 {
+	color:#ffff00;
+	font-family:roboto;
+	font-weight:200;
+	text-transform:uppercase;
+	text-shadow: 1.5px 1.5px 5px #fff, 1px 1px 5px #000;
+}
+
+
+
